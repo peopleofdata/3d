@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import { OrbitControls } from 'jsm/controls/OrbitControls.js';
-import spline from "./spline.js";
+import spline from "/spline.js";
 import { EffectComposer } from "jsm/postprocessing/EffectComposer.js";
 import { RenderPass } from "jsm/postprocessing/RenderPass.js";
 import { UnrealBloomPass } from "jsm/postprocessing/UnrealBloomPass.js";
